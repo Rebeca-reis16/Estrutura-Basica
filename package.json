@@ -1,7 +1,6 @@
 {
   "name": "estruturabasica",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "sweetalert2": "^11.7.12"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rebeca-reis16/Estrutura-Basica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rebeca-reis16/Estrutura-Basica/issues"
+  },
+  "homepage": "https://github.com/Rebeca-reis16/Estrutura-Basica#readme",
+  "description": ""
 }
